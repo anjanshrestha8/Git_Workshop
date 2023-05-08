@@ -1,0 +1,6 @@
+
+
+ls ---- list garxa 
+git checkout -b [branch name] -------- naya branch banauxa 
+git checkout -d [branch name] -------- delete garxa banauxa
+
